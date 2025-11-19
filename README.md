@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Henry**, a grade 11 student at **Merivale High School**... and I love to build things! (engineering ftw 😄)\
+I'm **Henry**, a grade 12 student at **Merivale High School**... and I love to build things! (engineering ftw 😄)\
 I enjoy making embedded systems projects (i.e. Arduino), often having bits of web dev and AI.\
 I also like to play badminton 🏸, soccer ⚽, go fishing 🎣, and do robotics 🤖 (FRC)!
 
