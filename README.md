@@ -1,4 +1,7 @@
+## Computer Engineering student at Waterloo working in embedded systems and robotics. 
+
 **Email**: henry.cai@uwaterloo.ca
+
 **Linkedin**: https://www.linkedin.com/in/henrycai2008/
 
 **Embedded Systems and Robotics**
