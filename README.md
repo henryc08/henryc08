@@ -1,18 +1,14 @@
-## Henry Cai
+**computer engineering student at uwaterloo working in embedded systems 🪫 and robotics 🤖**
 
-**computer engineering student at uwaterloo working in embedded systems and robotics**
+## Contact me :)
 
 **Email**: henry.cai@uwaterloo.ca
 
 **Linkedin**: https://www.linkedin.com/in/henrycai2008/
 
-**Embedded Systems and Robotics**
-
 ## What I'm working on right now: 👀
 - A head-tracking remote ANC device
-- Strava for composting 
-
-I also like to play badminton, soccer, go fishing, and do robotics.
+- Strava for composting
 
 <!--
 **henryc08/henryc08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
