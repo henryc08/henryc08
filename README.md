@@ -1,4 +1,6 @@
-## Computer Engineering student at Waterloo working in embedded systems and robotics. 
+## Henry Cai
+
+**computer engineering student at uwaterloo working in embedded systems and robotics**
 
 **Email**: henry.cai@uwaterloo.ca
 
