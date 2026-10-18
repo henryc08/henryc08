@@ -6,9 +6,13 @@
 
 **Linkedin**: https://www.linkedin.com/in/henrycai2008/
 
+## What I've built:
+- Segmentation and TLS Fingerprinting of .pcap files for Nokia's IP Network QA Team
+- Calmpost: Strava for composting
+- Kitbash: Build 3D holographic constructions in AR (Legend of Zelda ultrahand irl 🫣)
+
 ## What I'm working on right now: 👀
 - A head-tracking remote ANC device
-- Strava for composting
 - Piano tuner robotic arm
 
 <!--
