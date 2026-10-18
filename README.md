@@ -1,4 +1,4 @@
-**computer engineering student at uwaterloo working in embedded systems 🪫 and robotics 🤖**
+**computer engineering student at uwaterloo building embedded systems 🪫 and robotics 🤖**
 
 ## Contact me :)
 
@@ -9,6 +9,7 @@
 ## What I'm working on right now: 👀
 - A head-tracking remote ANC device
 - Strava for composting
+- Piano tuner robotic arm
 
 <!--
 **henryc08/henryc08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
